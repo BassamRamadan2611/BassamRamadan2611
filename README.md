@@ -6,7 +6,7 @@
 
   </p>
   
-  <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
+
 
  I’m  motivated junior frontend web developer with a passion for creating dynamic and user-friendly web applications. I have experience in developing web applications using Angular, a popular and powerful frontend framework. I also have a solid grasp of HTML, CSS, and JavaScript, the core technologies of web development.
 
