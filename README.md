@@ -8,5 +8,5 @@
   
 
 
- I’m  motivated junior frontend web developer with a passion for creating dynamic and user-friendly web applications. I have experience in developing web applications using Angular, a popular and powerful frontend framework. I also have a solid grasp of HTML, CSS, and JavaScript, the core technologies of web development.
+As a Junior Software Developer, I specialize in utilizing Angular and Node.js technologies to create web applications. With a strong foundation in both frontend and backend development, I excel in crafting dynamic and interactive user interfaces using the Angular framework while leveraging the power of Node.js for building efficient server-side logic and APIs. Additionally, I possess knowledge in database management and SQL Server, enabling me to design and manage databases effectively. My growing proficiency in these technologies allows me to develop full-stack solutions that meet the diverse needs of clients and users
 
